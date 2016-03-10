@@ -1,0 +1,18 @@
+1º Criar um usuário e banco de dados MySQL e aplicar as permisões. 
+
+2º Alterar o Arquivo conexap.php PASTA config/ com os dados de conexão de seu banco de dados.
+
+3º Importar as tabelas.sql 
+
+4º Acesso admin 
+www.seuexemplo.com.br/carne/admin/
+Usuário: admin
+Senha: 123
+
+===============================================================================================
+Obrigado pela compra espero que esse Script seja de aproveito para seus projetos.
+
+WWW.FERMINOSITES.XYZ
+PREMIUMSCRIPT@GMAIL.COM
+
+HOSPEDAGENS: WWW.DZ9DIGITAL.COM.BR
